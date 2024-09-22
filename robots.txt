@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tuovu.github.io/gfb/sitemap.gfb.gz
